@@ -1,0 +1,31 @@
+#content{
+	top: 150px;
+	width: 300px;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	opacity:0.6;
+}
+
+#btnSub{
+	position: relative;
+	right: 0px;
+}
+
+#buttonDivs{
+	padding: 10px;
+	position: absolute;
+	top: 375px;
+	left: 150px;
+}
+
+#cardNum{
+	position: relative;
+	padding: 30px;
+}
+
+body{
+	background: pink;
+	background-size: 100%;
+}
